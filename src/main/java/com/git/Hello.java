@@ -12,7 +12,7 @@ public class Hello
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello git4");
-        System.out.println("test push");
+        System.out.println("test push2");
         System.out.println("test pull2");
 
     }
